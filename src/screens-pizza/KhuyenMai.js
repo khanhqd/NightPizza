@@ -56,7 +56,7 @@ export default class KhuyenMai extends Component {
   render() {
     return (
       <View style={{flex: 1, padding: 20}}>
-        <Text> Khuyến Mại
+        <Text> Khuyến Mại tssteasd
         </Text>
       </View>
     );

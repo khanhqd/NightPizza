@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/Macbook/RNP/test/android/app/build/intermediates/res/merged/debug/menu/search_item.xml",
+        "source": "/Users/Macbook/RNP/test/android/app/build/intermediates/exploded-aar/test/react-native-navigation/unspecified/res/menu/search_item.xml"
+    },
+    {
+        "merged": "/Users/Macbook/RNP/test/android/app/build/intermediates/res/merged/debug/menu/stub.xml",
+        "source": "/Users/Macbook/RNP/test/android/app/build/intermediates/exploded-aar/test/react-native-navigation/unspecified/res/menu/stub.xml"
+    }
+]

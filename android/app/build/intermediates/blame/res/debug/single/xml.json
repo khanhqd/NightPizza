@@ -2,5 +2,9 @@
     {
         "merged": "/Users/Macbook/RNP/test/android/app/build/intermediates/res/merged/debug/xml/preferences.xml",
         "source": "/Users/Macbook/RNP/test/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.39.0/res/xml/preferences.xml"
+    },
+    {
+        "merged": "/Users/Macbook/RNP/NightPizza/android/app/build/intermediates/res/merged/debug/xml/preferences.xml",
+        "source": "/Users/Macbook/RNP/NightPizza/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.39.0/res/xml/preferences.xml"
     }
 ]

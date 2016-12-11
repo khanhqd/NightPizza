@@ -1,5 +1,9 @@
 [
     {
+        "merged": "/Users/Macbook/RNP/NightPizza/android/app/build/intermediates/res/merged/release/mipmap-xxhdpi/ic_launcher.png",
+        "source": "/Users/Macbook/RNP/NightPizza/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
         "merged": "/Users/Macbook/RNP/test/android/app/build/intermediates/res/merged/release/mipmap-xxhdpi/ic_launcher.png",
         "source": "/Users/Macbook/RNP/test/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
     }

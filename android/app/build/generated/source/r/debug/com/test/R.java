@@ -3600,8 +3600,6 @@ containing a value of this type.
         public static final int Animation_AppCompat_DropDownUp=0x7f09009d;
         public static final int Animation_Catalyst_RedBox=0x7f09009e;
         public static final int Animation_Design_BottomSheetDialog=0x7f09009f;
-        /**  Customize your theme here. 
-         */
         public static final int AppTheme=0x7f0900a0;
         public static final int Base_AlertDialog_AppCompat=0x7f0900a1;
         public static final int Base_AlertDialog_AppCompat_Light=0x7f0900a2;
